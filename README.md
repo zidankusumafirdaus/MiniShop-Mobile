@@ -1,16 +1,36 @@
-# _231080200078_zidankusuma_uts
+# MiniShop-Mobile
 
-A new Flutter project.
+MiniShop-Mobile adalah aplikasi mobile berbasis **Flutter** yang menampilkan katalog produk layaknya mini market online. Aplikasi ini mendukung tampilan kategori produk serta desain antarmuka yang sederhana namun interaktif.
 
-## Getting Started
+## 📱 Fitur Utama
 
-This project is a starting point for a Flutter application.
+- Tampilan halaman home  
+- Daftar kategori produk  
+- Navigasi halaman  
+- Tampilan antar muka bersih dan responsif  
+- Asset preview tersedia di folder `preview`
 
-A few resources to get you started if this is your first Flutter project:
+## 🎨 Preview Tampilan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🏠 Home
+![Home](preview/Home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🍚 Beras & Biji
+![Beras dan Biji](preview/BerasDanBiji.png)
+
+### 🍪 Makanan Ringan
+![Makanan Ringan](preview/MakananRingan.png)
+
+### 🧂 Minyak & Bumbu
+![Minyak dan Bumbu](preview/MinyakDanBumbu.png)
+
+### 🧽 Peralatan Rumah
+![Peralatan Rumah](preview/PeralatanRumah.png)
+
+### 🥛 Susu & Minuman
+![Susu dan Minuman](preview/SusuDanMinuman.png)
+
+---
+
+Silakan langsung gunakan di README Anda.  
+Kalau mau ditambah badge, GIF, status build, atau lainnya tinggal bilang saja.
