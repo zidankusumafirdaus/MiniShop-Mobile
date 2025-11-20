@@ -29,8 +29,3 @@ MiniShop-Mobile adalah aplikasi mobile berbasis **Flutter** yang menampilkan kat
 
 ### 🥛 Susu & Minuman
 ![Susu dan Minuman](preview/SusuDanMinuman.png)
-
----
-
-Silakan langsung gunakan di README Anda.  
-Kalau mau ditambah badge, GIF, status build, atau lainnya tinggal bilang saja.
